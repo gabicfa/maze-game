@@ -1,4 +1,4 @@
-# maze
+# maze-game
 
 This project implements a game in which the player from a starting point must guide a character controlled by the four arrow keys to an ending point of a maze. This maze is read from a file in a specific format and displayed via Swing.
 
